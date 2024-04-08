@@ -1,6 +1,8 @@
 # Find the GCD of two numbers
 Program to find the gcd of two number using function.
+
 Developed by: PREETHI S
+
 RegisterNumber:  212223230157
 
 ## AIM:
